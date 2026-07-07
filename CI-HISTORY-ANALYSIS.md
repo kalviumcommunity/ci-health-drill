@@ -116,4 +116,4 @@ Impact (blast radius on shipping safety) × Frequency (how often it occurs acros
 
 ## Summary
 
-The pipeline is effectively non-functional: a **96.7% failure rate** driven overwhelmingly by a single misconfigured `test` job that never installs dependencies. Real defects are invisible under the noise, a security scan has been silently disabled, and the team has normalized red CI and direct-to-`main` hotfixes. See `CI-HEALTH-REPORT.md` for the structured observations, risk table, and prioritized corrective actions.
+The pipeline is effectively non-functional: a **96.7% failure rate** driven overwhelmingly by a single misconfigured `test` job that never installs dependencies. Real defects are invisible under the noise, a security scan has been silently disabled, and the team has normalized red CI and direct-to-`main` hotfixes. See `CI-HEALTH-REPORT.md` for the structured observations, risk table, and prioritized corrective Actions .
